@@ -3,6 +3,8 @@
 - **Array**
 - **String**
 - **Linked List**
+- **Stack**
+- **Queue**
 ### Algorithm
 - **Searching**
 - **Sorting**
