@@ -9,5 +9,6 @@
 ### Algorithm
 - **Searching**
 - **Sorting**
+- **Two Pointer**
 - **Recursion**
 - **Backtracking**
