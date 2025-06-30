@@ -5,6 +5,7 @@
 - **Linked List**
 - **Stack**
 - **Queue**
+- **Heap**
 - **Tree**
 ### Algorithm
 - **Searching**
